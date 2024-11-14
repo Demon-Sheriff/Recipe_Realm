@@ -1,4 +1,5 @@
 import { Link } from "react-router-dom";
+import SearchBar from "./SearchBar";
 
 
 const Heading = () => {
@@ -65,7 +66,7 @@ const Header = () => {
                         <Heading/>
                     </div>
                     <div>
-                        SearchBar
+                        <SearchBar/>
                     </div>
                 </div>
             </div>

@@ -39,9 +39,9 @@ const Home = () => {
                     )
                 }   
             </div>
-            <section className="flex flex-col justify-center items-center gap-16 pt-24 ">
+            <section className="flex flex-col justify-center items-center gap-8 pt-12 ">
                 <div className="font-light text-white text-5xl"> 
-                    <span className="text-amber-600 font-semibold text-5xl">
+                    <span className="text-amber-600 font-semibold text-5xl ">
                         Deliciousness{" "}
                     </span>
 
@@ -50,7 +50,7 @@ const Home = () => {
                     <span className="font-semibold text-amber-600 leading-3 whitespace-pre">    Recipe </span> 
                     <span className="font-semibold text-white-600">Realm</span>
                 </div>
-                <p className="max-w-[300px] sm:max-w-[500px] md:max-w-[700px] text-[#fafafac3] text-[16px] pt-10 text-center">
+                <p className="max-w-[300px] sm:max-w-[500px] md:max-w-[700px] text-[#fafafac3] text-[15px] pt-10 text-center">
                     Welcome to RecipeRealm, the ultimate destination for food enthusiasts
                     and aspiring chefs. Our website offers a vast collection of
                     mouth-watering recipes, ranging from classic dishes to trendy and
